@@ -1,0 +1,93 @@
+/* title */
+h1
+{
+    font-size: 45px;
+    color:rgb(51, 43, 6);
+}
+h2{
+    font-size: 30px;
+}
+/* title */
+
+body
+{
+    background-image: url('https://wallpaperaccess.com/full/2084366.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#pic
+{
+width:50%;
+}
+#paragraphinfoone
+{
+    line-height: 2.2em;
+    font-size: 25px;
+}
+#info
+{
+    line-height: 2.2em;
+    font-size: 25px;
+}
+/* need the a portion to be done */
+a{
+    text-decoration: none;
+    color: rgb(255, 192, 74);
+}
+
+#infothree
+{
+    line-height: 2.2em;
+    font-size: 25px;
+}
+
+#infofour
+{
+    line-height:2.2em;
+    font-size: 25px;
+    
+}
+
+#infofive
+{
+    line-height:2.2em;
+    font-size: 25px;
+}
+a:hover
+{color:rgb(6, 138, 37);
+
+}
+
+/* set page background color */
+body
+{
+    padding-left: 120px; /* the padding adjustment */
+    padding-right: 50px;
+    background-color: rgb(231, 161, 114);
+    
+    
+}
+
+h2
+{
+    color:rgb(46, 46, 255);
+    border-bottom:3px solid;
+    margin-top: 1.5em; /* set margin of top */
+}
+
+.sidebar
+{
+position: fixed;
+top:0;
+left:0;
+
+width:100px; /* width of side bar */
+height:100%; /* height of sidebar  */
+background-color: rgb(124, 121, 121);
+padding-top:20px;
+padding-left: 15px;
+line-height: 1.85em;
+font-size:1.6em;
+}
